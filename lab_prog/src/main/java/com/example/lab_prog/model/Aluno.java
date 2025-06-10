@@ -24,7 +24,5 @@ public class Aluno {
     // se o cpf for diferente * fazer o mapeamento forçado não causa problema
     @Column(name = "cpf_aluno")
     private long cpf;
-    
-
 
 }
